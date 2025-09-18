@@ -1,0 +1,2 @@
+module AdministristoHomeHelper
+end

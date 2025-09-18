@@ -1,0 +1,2 @@
+module LernantoHomeHelper
+end
